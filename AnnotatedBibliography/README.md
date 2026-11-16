@@ -22,7 +22,25 @@ This paper is focused on a very different setting (industrial manufacturing), bu
 
 ## Digital Twins - Fish and Fisheries Applications
 
+### Akenhead et al. (2026)  
+**Akenhead, Scott A., Lene K. Sortland, Elvira de Eyto, Eduardo Martins, Gottfried Pestal, and Colin D. Bull. 2026. Capabilities Required from a Salmon Digital Twin. _In:_ North Pacific Anadromous Fish Commission Technical Report, 24:49–56. Vancouver BC Canada: North Pacific Anadromous Fish Commission. https://doi.org/https://doi.org/10.23849/npafctr24/109-565.**
 
+An international team considered the challenge of salmon getting the DTs. One result was this project!
+* suggests separate twins for each life stage and for each habitat that life stage occupies. Mechanistic simulations fitted from history.
+* real-time updates of habitat state and predictions drive update of that life-stage: states, rates, and predictions.
+* lots of challenges (tabled) but somehow a _workflow_ of habitat and life-stage twins links the pieces, allows re-use of _steps_ in different populations, and continuous improvement.
+* details suggestion twins be U.S.E.R.-friendly: Understandable, Safe, Effective (decision support), and Reusable (steps in workflows/pipelines).
+
+### Sortland et al. (2026)  
+**Sortland, L.K., Martins, E.G., Føre, M., de Eyto, E., Diack, G., Bull, C.D., and Akenhead, S.A. 2026. A salmon’s eye view: Digital twins for salmon populations and salmon habitats. _In:_ PICES-2026 Book of Abstracts. North Pacific Marine Science Organization, Sidney, BC, Canada. p. 9. doi:https://doi.org/10.23849/npafctr24/109-565.**
+
+Among the challenges of moving from 1950’s stock-recruit models to individual-based, mechanistic models for salmon will be large-scale mobilization of data, knowledge, and science, and an attendant requirement for better collaboration and communication. 
+* The technological foundation for this _paradigm shift_ is facilitated by rapidly evolving, enabling technologies such as AI; how remains to be seen.
+* Salmon twins that use ocean twins and watershed twins will open important opportunities including:
+    + a more informed approach to reversing salmon population declines,
+    + confronting and and prioritizing knowledge gaps,
+    + faster learning from scenarios and experience (adaptive management), and critically
+    + improved engagement with decision fora, co-managers, stakeholders, citizen science, and open-source collaborators.
 
 
 ## Digital Twins - Other Biological / Ecological Applications
